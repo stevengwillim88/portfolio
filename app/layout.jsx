@@ -12,7 +12,7 @@ export const metadata = {
   title: "Steven | Portofolio",
 
   description:
-    "My name is Steven, I'm a Senior Software Engineer and I'm passionate whatever I do.",
+    "My name is Steven, I&apos;m a Senior Software Engineer and I&apos;m passionate whatever I do.",
 
   author: "Steven Gwillim",
   siteUrl: "https://www.steven.my.id",

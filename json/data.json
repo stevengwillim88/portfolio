@@ -101,7 +101,7 @@
       "show": true,
       "title": "Lichi",
       "desc": [
-        "I developed lichi.com/us/en, a modern, visually engaging platform that effectively represents the brand's innovative solutions. ",
+        "I developed lichi.com/us/en, a modern, visually engaging platform that effectively represents the brand&apos;s innovative solutions. ",
         "The site features a responsive front-end built with HTML5, CSS3, and JavaScript—leveraging frameworks like React or Next.js to deliver a seamless and dynamic user experience. On the back-end, robust APIs, serverless functions, and a headless CMS facilitate efficient content management and rapid data processing",
         "Additionally, I integrated advanced SEO strategies, performance optimizations, and analytics tools to ensure maximum visibility and user engagement, highlighting my expertise in full-stack, modern web development."
       ],
@@ -123,7 +123,7 @@
       "show": true,
       "title": "Fashion Lilysilk",
       "desc": [
-        "I developed LILYSILK's global e-commerce platform, creating a visually appealing and highly functional online store for luxury silk products",
+        "I developed LILYSILK&apos;s global e-commerce platform, creating a visually appealing and highly functional online store for luxury silk products",
         "The front-end was built using HTML5, CSS3, JavaScript, and React for dynamic content rendering, ensuring a responsive, mobile-first design. For the back-end, I integrated a headless CMS to streamline product management and enhance flexibility. I also implemented SEO best practices, performance optimizations, and robust analytics tools to drive traffic and user engagement. ",
         "This project highlights my expertise in building scalable, performance-optimized websites with seamless user experiences."
       ],
@@ -262,7 +262,7 @@
       "title": "Mind Mirror",
       "desc": [
         "LMS website that integrated Generative AI feauture to track studnet various keys like mood, behavior, and cognitive ability when learning. The website is built using Laravel as a fullstack framework. In this website teacher can track student mood and other metrics data based on the material students accessed.",
-        "The website also has a few features such as a dashboard for the teacher to see the student's data, a material page, and a quiz page. The website also has a few charts to visualize the student's data. The website provided the student captured data that can be downloaded by the teacher.",
+        "The website also has a few features such as a dashboard for the teacher to see the student&apos;s data, a material page, and a quiz page. The website also has a few charts to visualize the student&apos;s data. The website provided the student captured data that can be downloaded by the teacher.",
         "The website also has a features to export the lecture data such as the mood, behaviour, and cognitive score to a xlxs file that can be downloaded by the teacher."
       ],
       "year": "2024",
@@ -453,7 +453,7 @@
       "show": true,
       "title": "React Tools",
       "desc": [
-        "React Tools is a groundbreaking and user-friendly project that brings together a comprehensive collection of tools and components crafted with cutting-edge technologies, including React, React Router, and TailwindCSS. What sets this project apart is that it's not just a suite of powerful features, but it's also a significant milestone as it marks my very first venture into the world of React development.",
+        "React Tools is a groundbreaking and user-friendly project that brings together a comprehensive collection of tools and components crafted with cutting-edge technologies, including React, React Router, and TailwindCSS. What sets this project apart is that it&apos;s not just a suite of powerful features, but it&apos;s also a significant milestone as it marks my very first venture into the world of React development.",
 
         "Unlike traditional web applications, React Tools cleverly utilizes browser local storage, eliminating the need for external databases. This not only ensures seamless performance but also prioritizes user data privacy. ",
 
@@ -478,7 +478,7 @@
       "title": "Aleph Discord Bot",
       "desc": [
         "Aleph is a Discord bot that I created for my dircord server to use. The bot is built using Python and the discord.py library. The bot has image grabber feauture that takes argument (keywords) and returns an image from the internet.",
-        "Other than that this bot has a few other features such as utility command to delete a messages, and a command to get the server's ping. This bot is still in development and I plan to add more features in the future."
+        "Other than that this bot has a few other features such as utility command to delete a messages, and a command to get the server&apos;s ping. This bot is still in development and I plan to add more features in the future."
       ],
       "year": "2023",
       "preview": "",
