@@ -129,7 +129,7 @@ export default function Experience() {
           <div className="aspect-square w-5 bg-black rounded-full absolute left-0 translate-x-[-29.5px] z-10" />
           <div className="font-medium text-lg">2017 - 2018</div>
           <div>
-            <h3 className="font-semibold text-xl text-black">eBSEG</h3>
+            <h3 className="font-semibold text-xl text-black">Appnovation</h3>
             <h4 className=" font-light text-md mb-4">FullStack Develoepr</h4>
             <h5 className="text-justify font-bold italic">
               Delivered CMS-integrated and real-time financial dashboards using
