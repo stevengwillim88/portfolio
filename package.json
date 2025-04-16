@@ -1,9 +1,10 @@
 {
-  "name": "my-porto-2",
+  "name": "Steven Gwillim's Portfolio",
   "version": "1.0.0",
   "private": true,
+  "description": "--turbopack",
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",

@@ -2,29 +2,259 @@
   "Projects": [
     {
       "show": true,
-      "title": "Client Personal Protfolio Website",
+      "title": "Cambiar1",
       "desc": [
-        "A personal portfolio website that I created for a client. The website is built using two main tech, native (HTML, CSSS, JS) and react based (ReactJs, TailwindCSS, Typescript). The website also created based on the client design, and improved and sliced by me. The website has a few features such as a about page, a project page, resume page, and a contact page.",
-        "The website is created using a modern design and a clean interface that appeals to a wide audience. The website also has a responsive design that makes it easy to use on any device. The website also has a few animations that make the website more interactive and engaging."
+        "I developed the Hertz Mexico website (https://www.hertzmexico.com/en/), delivering a modern, user-friendly platform for car rentals across Mexico. ",
+        "The front-end was built using HTML5, CSS3, and JavaScript, with a mobile-first approach to ensure a seamless experience across devices. I integrated a content management system, likely WordPress or a headless CMS, to streamline content updates and manage bookings effectively. Advanced SEO practices, performance optimization, and analytics tools were incorporated to enhance visibility and user engagement.",
+        "This project showcases my ability to merge aesthetic design with robust technical architecture to deliver a feature-rich web experience for both visitors and administrators."
       ],
-      "year": "2025",
+      "year": "2024",
       "preview": "",
       "code": "",
-      "thumbnail": "/image/projects/web/apii-portfolio/porto-thumbnail.jpg",
+      "thumbnail": "/image/projects/portfolio/cambiar.png",
       "images": [
-        "/image/projects/web/apii-portfolio/porto1.png",
-        "/image/projects/web/apii-portfolio/porto2.png",
-        "/image/projects/web/apii-portfolio/porto3.png"
+        "/image/projects/portfolio/cambiar.png",
+        "/image/projects/portfolio/cambiar1.png",
+        "/image/projects/portfolio/cambiar2.png",
+        "/image/projects/portfolio/cambiar3.png"
+      ],
+      "tech": ["React", "Next", "Tailwind CSS", "MySQL", "jQuery"],
+      "slug": "cambiar",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Car Rental1",
+      "desc": [
+        "I developed rentalpreveza.gr, a comprehensive rental platform that showcases properties in the Preveza region with a focus on both aesthetic appeal and user functionality.",
+        "Using modern web technologies such as HTML5, CSS3, WordPress and JavaScript alongside a robust front-end framework like React, I crafted a responsive and intuitive interface that adapts seamlessly to various devices. The platform features dynamic property listings, integrated booking forms, and real-time availability checks, enhancing the overall user experience. On the back-end, I employed technologies like Node.js and a scalable database solution to ensure efficient data management, while integrating APIs like Google Maps to provide enriched location-based services.",
+        "This project allowed me to fully leverage my expertise in responsive design, performance optimization, and the integration of diverse web services to deliver a robust and engaging web experience."
+      ],
+      "year": "2024",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/portfolio/carrental.png",
+      "images": [
+        "/image/projects/portfolio/carrental.png",
+        "/image/projects/portfolio/carrental1.png",
+        "/image/projects/portfolio/carrental2.png",
+        "/image/projects/portfolio/carrental3.png"
       ],
       "tech": [
-        "HTML",
-        "CSS",
-        "JS",
-        "ReactJS",
+        "PHP",
+        "Google Map",
+        "React",
+        "MySQL",
+        "Nginx",
+        "WordPress",
+        "jQuery",
+        "Elementor"
+      ],
+      "slug": "carrental",
+      "category": [1, 2]
+    },
+    {
+      "show": true,
+      "title": "House Rental1",
+      "desc": [
+        "I developed crescentretreats.com, a modern and engaging website dedicated to promoting wellness retreats and exceptional guest experiences.",
+        "The front-end was built using HTML5, CSS3, and JavaScript, potentially enhanced with React for dynamic content rendering and a mobile-first responsive design that delivers a seamless experience across devices. On the back-end, I integrated a content management system—potentially WordPress or a headless CMS—to streamline content updates and manage bookings or inquiries effectively. Advanced SEO practices, performance optimization, and analytics tools were incorporated to ensure high visibility and a data-driven approach to enhancing user engagement.",
+        "This project showcases my ability to merge aesthetic design with robust technical architecture to deliver a feature-rich web experience for both visitors and administrators."
+      ],
+      "year": "2024",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/portfolio/houserental.png",
+      "images": [
+        "/image/projects/portfolio/houserental.png",
+        "/image/projects/portfolio/houserental1.png",
+        "/image/projects/portfolio/houserental2.png"
+      ],
+      "tech": ["HTML", "CSS", "Redux", "Bootstrap"],
+      "slug": "houserental",
+      "category": [4]
+    },
+    {
+      "show": true,
+      "title": "Ibiza",
+      "desc": [
+        "I developed the Loux Ibiza website (https://www.louxibiza.com/), a visually stunning platform tailored for luxury lifestyle management services in Ibiza. ",
+        "The front-end was built using HTML5, CSS3, and JavaScript, with a mobile-first approach to ensure a seamless experience across devices. I integrated a content management system, likely WordPress or a headless CMS, to streamline content updates and manage bookings effectively. Advanced SEO practices, performance optimization, and analytics tools were incorporated to enhance visibility and user engagement.",
+        "This project showcases my ability to merge aesthetic design with robust technical architecture to deliver a feature-rich web experience for both visitors and administrators."
+      ],
+      "year": "2024",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/portfolio/Ibiza.png",
+      "images": [
+        "/image/projects/portfolio/Ibiza.png",
+        "/image/projects/portfolio/Ibiza1.png",
+        "/image/projects/portfolio/Ibiza2.png",
+        "/image/projects/portfolio/Ibiza3.png",
+        "/image/projects/portfolio/Ibiza4.png"
+      ],
+      "tech": ["WordPress", "Webflow", "Bootstrap", "MySQL", "jQuery"],
+      "slug": "Ibiza",
+      "category": [2, 4]
+    },
+    {
+      "show": true,
+      "title": "Lichi1",
+      "desc": [
+        "I developed lichi.com/us/en, a modern, visually engaging platform that effectively represents the brand's innovative solutions. ",
+        "The site features a responsive front-end built with HTML5, CSS3, and JavaScript—leveraging frameworks like React or Next.js to deliver a seamless and dynamic user experience. On the back-end, robust APIs, serverless functions, and a headless CMS facilitate efficient content management and rapid data processing",
+        "Additionally, I integrated advanced SEO strategies, performance optimizations, and analytics tools to ensure maximum visibility and user engagement, highlighting my expertise in full-stack, modern web development."
+      ],
+      "year": "2024",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/portfolio/lichi.png",
+      "images": [
+        "/image/projects/portfolio/lichi.png",
+        "/image/projects/portfolio/lichi1.png",
+        "/image/projects/portfolio/lichi2.png",
+        "/image/projects/portfolio/lichi3.png"
+      ],
+      "tech": ["Next", "React", "Redux", "Nginx", "Webpack", "PWA"],
+      "slug": "lichi",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Fashion Lilysilk1",
+      "desc": [
+        "I developed LILYSILK's global e-commerce platform, creating a visually appealing and highly functional online store for luxury silk products",
+        "The front-end was built using HTML5, CSS3, JavaScript, and React for dynamic content rendering, ensuring a responsive, mobile-first design. For the back-end, I integrated a headless CMS to streamline product management and enhance flexibility. I also implemented SEO best practices, performance optimizations, and robust analytics tools to drive traffic and user engagement. ",
+        "This project highlights my expertise in building scalable, performance-optimized websites with seamless user experiences."
+      ],
+      "year": "2024",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/portfolio/lilysilk.png",
+      "images": [
+        "/image/projects/portfolio/lilysilk.png",
+        "/image/projects/portfolio/lilysilk1.png",
+        "/image/projects/portfolio/lilysilk2.png",
+        "/image/projects/portfolio/lilysilk3.png",
+        "/image/projects/portfolio/lilysilk4.png",
+        "/image/projects/portfolio/lilysilk5.png"
+      ],
+      "tech": ["React", "Next", "Magento", "Redux", "Webpack"],
+      "slug": "lilysilk",
+      "category": [1, 2]
+    },
+    {
+      "show": true,
+      "title": "My House1",
+      "desc": [
+        "I developed myhousehospitality.com, a modern hospitality platform designed to deliver an engaging and user-friendly experience for visitors and potential clients.",
+        "The site leverages a responsive front-end built with HTML5, CSS3, and JavaScript, incorporating a framework like React to ensure smooth performance and a mobile-first design. On the server side, a robust Node.js and Express setup manages API integrations and dynamic content delivery, while a scalable database such as MongoDB underpins the efficient handling of user inquiries and booking data.",
+        "Additionally, I employed advanced SEO optimization and performance tuning to create a fast, search-friendly website that aligns with contemporary web standards and best practices."
+      ],
+      "year": "2024",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/portfolio/myhouse.png",
+      "images": [
+        "/image/projects/portfolio/myhouse.png",
+        "/image/projects/portfolio/myhouse1.png",
+        "/image/projects/portfolio/myhouse2.png"
+      ],
+      "tech": ["React", "Next", "AWS", "Webpack"],
+      "slug": "myhouse",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Only One1",
+      "desc": [
+        "I developed onestayinfo.holidayfuture.com, a comprehensive online platform dedicated to holiday stay information and bookings.",
+        "The project leverages a modern front-end stack with HTML5, CSS3, and JavaScript—utilizing frameworks such as React for dynamic content rendering and a modular UI that ensures a seamless user experience across devices. On the back-end, the application is powered by Node.js coupled with Express, providing robust RESTful APIs that handle data interactions and integrate with various external services. A NoSQL database solution, like MongoDB, has been incorporated to efficiently manage listings and user data while maintaining scalability and performance.",
+        "Additionally, advanced techniques in SEO optimization, responsive design, and secure API integrations were employed to create an engaging, high-performing platform for users."
+      ],
+      "year": "2024",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/portfolio/one.png",
+      "images": [
+        "/image/projects/portfolio/one.png",
+        "/image/projects/portfolio/one1.png",
+        "/image/projects/portfolio/one2.png"
+      ],
+      "tech": ["React", "Next", "Redux", "Nginx", "Webpack", "AWS"],
+      "slug": "one",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Re-evolution1",
+      "desc": [
+        "I developed hispanosuizacars.com, a dynamic and responsive website for a premium car dealership that effectively showcases their extensive inventory and services. Leveraging modern technologies such as WordPress, HTML5, CSS3, PHP and JavaScript,",
+        "I created an engaging user interface that adapts seamlessly across devices. I implemented interactive elements including dynamic inventory displays, integrated contact forms, and lead capture mechanisms to enhance user engagement and conversion rates. On the back-end, I utilized Node.js and a reliable database system to manage inventory data efficiently while ensuring secure, fast, and scalable interactions through API integrations.",
+        "This project allowed me to combine creative design with technical precision, optimizing performance and responsiveness for a superior online car shopping experience."
+      ],
+      "year": "2024",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/portfolio/re-evolution.png",
+      "images": [
+        "/image/projects/portfolio/re-evolution.png",
+        "/image/projects/portfolio/re-evolution1.png",
+        "/image/projects/portfolio/re-evolution2.png",
+        "/image/projects/portfolio/re-evolution3.png"
+      ],
+      "tech": ["PHP", "HTML", "CSS", "MySQL", "WordPress", "Redux"],
+      "slug": "re-evolution",
+      "category": [2]
+    },
+    {
+      "show": true,
+      "title": "Rental Dream1",
+      "desc": [
+        "I developed rent-qoute-pro.vercel.app, a streamlined web application for generating rental quotes with an emphasis on speed and user engagement.",
+        "Built with Next.js and deployed on Vercel, the site leverages server-side rendering and API routes for fast, dynamic content delivery. The powerful React front-end ensures a smooth and responsive user interface, enhanced by modern styling frameworks like Tailwind CSS. Serverless functions handle data processing and integration with external services, offering scalability and efficient performance. ",
+        "This project highlights my expertise in advanced JavaScript frameworks, serverless architecture, and performance-focused web development."
+      ],
+      "year": "2024",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/portfolio/rentaldream.png",
+      "images": [
+        "/image/projects/portfolio/rentaldream.png",
+        "/image/projects/portfolio/rentaldream1.png",
+        "/image/projects/portfolio/rentaldream2.png",
+        "/image/projects/portfolio/rentaldream3.png"
+      ],
+      "tech": [
+        "React",
+        "Next",
+        "Radix-UI",
         "TailwindCSS",
-        "Typescript"
-      ], 
-      "slug": "apii-porto",
+        "ShadCN-UI",
+        "Webpack"
+      ],
+      "slug": "rentaldream",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Sea Sensational1",
+      "desc": [
+        "I developed sensationalseaadventures.com, a dynamic website that captures the adventurous spirit of marine tours and excursions.",
+        "I utilized modern web technologies such as HTML5, CSS3, and JavaScript alongside frameworks like React to create a responsive and engaging user interface. The integration of booking systems and contact forms streamlined user interactions, showcasing my expertise in API integrations and back-end technologies.",
+        "Additional skills in performance optimization, SEO best practices, and mobile-first design played a critical role in ensuring a robust and high-traffic site. This project was a perfect blend of creative design and technical precision, reflecting the vibrant energy of the brand."
+      ],
+      "year": "2024",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/portfolio/sensational.png",
+      "images": [
+        "/image/projects/portfolio/sensational.png",
+        "/image/projects/portfolio/sensational1.png",
+        "/image/projects/portfolio/sensational2.png"
+      ],
+      "tech": ["Wix", "HTML", "CSS", "MySQL", "jQuery", "React"],
+      "slug": "sensational",
       "category": [1]
     },
     {
@@ -46,42 +276,28 @@
         "/image/projects/web/mind-mirror/mind4.png",
         "/image/projects/web/mind-mirror/mind5.png"
       ],
-      "tech": [
-        "PHP",
-        "Laravel",
-        "Bootstrap",
-        "MySQL",
-        "jQuery",
-        "DataTables"
-      ], 
+      "tech": ["PHP", "Laravel", "Bootstrap", "MySQL", "jQuery", "DataTables"],
       "slug": "mind-mirror",
-      "category": [1, 2]
+      "category": [1, 3]
     },
     {
       "show": true,
       "title": "Javanese Translation Website",
       "desc": [
-        "A Javanese ngoko - krama translation website that I created as a collaborative project with my friends. The website is built using the original Transformer architecture by Vaswani et al. (2017). Built with Python, TensorFlow, Flask, HTML, and CSS, the website allows users to input text in Javanese krama and receive the corresponding ngoko translation.", 
+        "A Javanese ngoko - krama translation website that I created as a collaborative project with my friends. The website is built using the original Transformer architecture by Vaswani et al. (2017). Built with Python, TensorFlow, Flask, HTML, and CSS, the website allows users to input text in Javanese krama and receive the corresponding ngoko translation.",
         "The website is designed to be simple to use, with a clean and modern interface that appeals to a wide audience. Users can input text in Javanese krama and receive the corresponding ngoko translation. The Project also provide ipynb file for the model training and the model itself."
       ],
       "year": "2024",
       "preview": "",
-      "code": "https://github.com/Alvalens/web-javanese-translation",
+      "code": "",
       "thumbnail": "/image/projects/ai/javanese-translation/javanese-translation-thumbnail.jpg",
       "images": [
         "/image/projects/ai/javanese-translation/javanese-translation1.png",
         "/image/projects/ai/javanese-translation/javanese-translation2.png"
       ],
-      "tech": [
-        "Transformers",
-        "Python",
-        "Tensorflow",
-        "Flask",
-        "HTML",
-        "CSS"
-      ], 
+      "tech": ["Transformers", "Python", "Tensorflow", "Flask", "HTML", "CSS"],
       "slug": "javanese-translation",
-      "category": [2]
+      "category": [3]
     },
     {
       "show": true,
@@ -92,7 +308,7 @@
       ],
       "year": "2024",
       "preview": "",
-      "code": "https://github.com/Alvalens/heart-attack-prediction",
+      "code": "",
       "thumbnail": "/image/projects/ai/heart-attack-prediction/heart-attack-prediction-thumbnail.jpg",
       "images": [
         "/image/projects/ai/heart-attack-prediction/heart-attack1.png",
@@ -101,16 +317,9 @@
         "/image/projects/ai/heart-attack-prediction/heart-attack4.png",
         "/image/projects/ai/heart-attack-prediction/heart-attack5.png"
       ],
-      "tech": [
-        "Decision Tree",
-        "Python",
-        "Sklearn",
-        "Flask",
-        "HTML",
-        "CSS"
-      ], 
+      "tech": ["Decision Tree", "Python", "Sklearn", "Flask", "HTML", "CSS"],
       "slug": "heart-attack",
-      "category": [2]
+      "category": [3]
     },
     {
       "show": true,
@@ -121,22 +330,16 @@
       ],
       "year": "2024",
       "preview": "https://generative-trivia.vercel.app/",
-      "code": "https://github.com/Alvalens/generative-trivia",
+      "code": "",
       "thumbnail": "/image/projects/web/trivia/trivia-thumbnail.png",
       "images": [
         "/image/projects/web/trivia/trivia1.png",
         "/image/projects/web/trivia/trivia2.png",
         "/image/projects/web/trivia/trivia3.png"
       ],
-      "tech": [
-        "NextJS",
-        "Shadcn UI",
-        "Tailwind CSS",
-        "Firebase",
-        "Gemini API"
-      ], 
+      "tech": ["NextJS", "Shadcn UI", "Tailwind CSS", "Firebase", "Gemini API"],
       "slug": "trivia",
-      "category": [1, 2]
+      "category": [1, 3]
     },
     {
       "show": true,
@@ -160,7 +363,7 @@
         "Tailwind CSS",
         "Prisma",
         "MySQL"
-      ], 
+      ],
       "slug": "saku-senyum",
       "category": [1]
     },
@@ -169,7 +372,7 @@
       "title": "Simadun",
       "desc": [
         "Simadun is an Exam Management System developed for doctoral students in the Department of Electrical Engineering and Informatics Universitas Negeri Malang. The system facilitates the management of five different types of examinations, allowing students to apply for exams with ease. Professors and program heads can efficiently oversee the exam processes.",
-        
+
         "With Simadun, students can submit their exam applications online, track their application status, and receive timely notifications regarding their exam schedules. Program heads and relevant lecturers have access to comprehensive dashboards where they can manage exam requests, allocate resources, and monitor overall exam logistics. "
       ],
       "year": "2024",
@@ -181,15 +384,7 @@
         "/image/projects/web/simadun/simadun4.png",
         "/image/projects/web/simadun/simadun5.png"
       ],
-      "tech": [
-        "PHP",
-        "Laravel",
-        "Bootstrap",
-        "MySQL",
-        "jQuery",
-        "DataTables"
-
-      ], 
+      "tech": ["PHP", "Laravel", "Bootstrap", "MySQL", "jQuery", "DataTables"],
       "slug": "simadun",
       "category": [1]
     },
@@ -198,22 +393,19 @@
       "title": "LUDOang",
       "desc": [
         "LUDOang is a game that my team and I created for a final project in my university. The game is built python, pygame, and OpenGL. The game is a 2D game that is inspired by a Ludo game. The game has a few features such randomZone, and a 3D dice.",
-        "RandomZone is a feature that allows the player to get a random number of steps. The 3D dice is a feature that allows the player to roll a 3D dice. The game also has a few other features menuy screen and also loading screen.", "Beside that the game also has a audio theme that will play when the game is started. The game also has a few sound effects such as dice roll sound, and a sound when the player win the game."
+        "RandomZone is a feature that allows the player to get a random number of steps. The 3D dice is a feature that allows the player to roll a 3D dice. The game also has a few other features menuy screen and also loading screen.",
+        "Beside that the game also has a audio theme that will play when the game is started. The game also has a few sound effects such as dice roll sound, and a sound when the player win the game."
       ],
       "year": "2023",
-      "preview": "https://github.com/Alvalens/ludo-game/releases/tag/pre-release",
-      "code": "https://github.com/Alvalens/ludo-game",
+      "preview": "https://github.com/stevengwillim88/ludo-game/releases/tag/pre-release",
+      "code": "",
       "thumbnail": "/image/projects/other/LUDOang/ludo-thumbnail.png",
       "images": [
         "/image/projects/other/LUDOang/ludo1.png",
         "/image/projects/other/LUDOang/ludo2.png",
         "/image/projects/other/LUDOang/ludo3.png"
       ],
-      "tech": [
-        "Python",
-        "Pygame",
-        "OpenGL"
-      ], 
+      "tech": ["Python", "Pygame", "OpenGL"],
       "slug": "ludoang",
       "category": [9]
     },
@@ -221,7 +413,8 @@
       "show": true,
       "title": "VICC Landing Page",
       "desc": [
-        "This project is one of my freelance projects. This project is a landing page for Vocational Inter-cultural Camp event held by Vocational Faculty of Universitas Negeri Malang. The website is built using Next.js, Javascript, and Tailwind CSS.", "The website is mainly frontend project, which is already using responsive design. The website has a few features such carousel, and a few animations. The website also has a few pages such as home, topic, and speaker page."
+        "This project is one of my freelance projects. This project is a landing page for Vocational Inter-cultural Camp event held by Vocational Faculty of Universitas Negeri Malang. The website is built using Next.js, Javascript, and Tailwind CSS.",
+        "The website is mainly frontend project, which is already using responsive design. The website has a few features such carousel, and a few animations. The website also has a few pages such as home, topic, and speaker page."
       ],
       "year": "2023",
       "preview": "https://inter-cultural-camp.vercel.app",
@@ -231,11 +424,7 @@
         "/image/projects/web/vicc/vicc2.png",
         "/image/projects/web/vicc/vicc3.png"
       ],
-      "tech": [
-        "JavaScript",
-        "NextJS",
-        "Tailwind CSS"
-      ],
+      "tech": ["JavaScript", "NextJS", "Tailwind CSS"],
       "slug": "vicc",
       "category": [1]
     },
@@ -248,7 +437,7 @@
       ],
       "year": "2023",
       "preview": "https://react-chat-rouge.vercel.app",
-      "code": "https://github.com/Alvalens/react-realtime-chat",
+      "code": "https://github.com/stevengwillim88/react-realtime-chat",
       "thumbnail": "/image/projects/web/react-chat/chat-thumbnail.png",
       "images": [
         "/image/projects/web/react-chat/chat1.png",
@@ -256,13 +445,7 @@
         "/image/projects/web/react-chat/chat3.png",
         "/image/projects/web/react-chat/chat4.png"
       ],
-      "tech": [
-        "JavaScript",
-        "React",
-        "React Router",
-        "Firebase",
-        "Daisy UI"
-      ],
+      "tech": ["JavaScript", "React", "React Router", "Firebase", "Daisy UI"],
       "slug": "react-chat",
       "category": [1]
     },
@@ -278,7 +461,7 @@
       ],
       "year": "2023",
       "preview": "https://react-tools-flax.vercel.app",
-      "code": "https://github.com/Alvalens/react-tools",
+      "code": "",
       "thumbnail": "/image/projects/web/tools/tools-thumbnail.png",
       "images": [
         "/image/projects/web/tools/tools.png",
@@ -286,12 +469,7 @@
         "/image/projects/web/tools/tools2.png",
         "/image/projects/web/tools/tools3.png"
       ],
-      "tech": [
-        "Javascript",
-        "React",
-        "React Router",
-        "TailwindCSS"
-      ],
+      "tech": ["Javascript", "React", "React Router", "TailwindCSS"],
       "slug": "react-tools",
       "category": [1]
     },
@@ -299,23 +477,21 @@
       "show": true,
       "title": "Aleph Discord Bot",
       "desc": [
-        "Aleph is a Discord bot that I created for my dircord server to use. The bot is built using Python and the discord.py library. The bot has image grabber feauture that takes argument (keywords) and returns an image from the internet.", "Other than that this bot has a few other features such as utility command to delete a messages, and a command to get the server's ping. This bot is still in development and I plan to add more features in the future."],
+        "Aleph is a Discord bot that I created for my dircord server to use. The bot is built using Python and the discord.py library. The bot has image grabber feauture that takes argument (keywords) and returns an image from the internet.",
+        "Other than that this bot has a few other features such as utility command to delete a messages, and a command to get the server's ping. This bot is still in development and I plan to add more features in the future."
+      ],
       "year": "2023",
       "preview": "",
-      "code": "https://github.com/Alvalens/aleph-discord-bot",
+      "code": "",
       "thumbnail": "/image/projects/other/bot/bot-thumbnail.png",
       "images": [
         "/image/projects/other/bot/bot1.png",
         "/image/projects/other/bot/bot2.png"
       ],
-      "tech": [
-        "Python",
-        "Discord.py",
-        "Google Serp API"
-      ],
+      "tech": ["Python", "Discord.py", "Google Serp API"],
       "slug": "aleph-discord-bot",
       "category": [9]
-    }, 
+    },
     {
       "show": true,
       "title": "LPTK Cup 2023 Website",
@@ -333,22 +509,18 @@
         "/image/projects/web/lptk/lptk3.png",
         "/image/projects/web/lptk/lptk4.png"
       ],
-      "tech": [
-        "PHP",
-        "Laravel",
-        "Bootstrap",
-        "MySQL",
-        "jQuery",
-        "DataTables"
-      ],
+      "tech": ["PHP", "Laravel", "Bootstrap", "MySQL", "jQuery", "DataTables"],
       "slug": "lptk-cup-2023",
       "category": [1]
-    }, 
+    },
     {
       "show": true,
       "title": "NU INO Website",
       "desc": [
-        "My first freelance project. This project is a website for a School based on a JALAKAR curriculum. The website is built mainly using Laravel and Bootstrap.", "This website is LMS like system, have a user management, user auth, quiz and material for student and FAQ",  "In this project I learned how to work with a team and how to manage a project. I also learned new library such as livewire and alpine.js."],
+        "My first freelance project. This project is a website for a School based on a JALAKAR curriculum. The website is built mainly using Laravel and Bootstrap.",
+        "This website is LMS like system, have a user management, user auth, quiz and material for student and FAQ",
+        "In this project I learned how to work with a team and how to manage a project. I also learned new library such as livewire and alpine.js."
+      ],
       "year": "2023",
       "preview": "",
       "code": "",

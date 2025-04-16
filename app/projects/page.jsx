@@ -19,8 +19,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronLeft } from "@fortawesome/free-solid-svg-icons";
 
 const category = {
-	1: "Web Development",
-	2: "AI & Machine Learning",
+	1: "React-Next",
+	2: "WordPress",
+	3: "AI",
 	9: "Other",
 };
 
@@ -46,7 +47,7 @@ export default function Page() {
 							className="bg-slate-300 rounded-sm h-[400px] md:h-[600px] w-[80vw] md:w-[30vw] grayscale hover:grayscale-0 ">
 							<Image
 								src={ProjectAll}
-								alt="Alvalens"
+								alt="steven"
 								layout="fill"
 								objectFit="cover"
 								placeholder="blur"
@@ -100,7 +101,7 @@ export default function Page() {
 									className="w-full h-full shadow-lg">
 									<Image
 										src={ReactChat1}
-										alt="Alvalens"
+										alt="steven"
 										layout="fill"
 										objectFit="cover"
 										placeholder="blur"
@@ -124,7 +125,7 @@ export default function Page() {
 									className="w-full h-full shadow-lg ">
 									<Image
 										src={ReactChat3}
-										alt="Alvalens"
+										alt="steven"
 										layout="fill"
 										objectFit="cover"
 										placeholder="blur"
@@ -150,7 +151,7 @@ export default function Page() {
 									className="w-full h-full shadow-lg">
 									<Image
 										src={ReactChat2}
-										alt="Alvalens"
+										alt="steven"
 										layout="fill"
 										objectFit="cover"
 										placeholder="blur"
@@ -260,20 +261,6 @@ export default function Page() {
 						/>
 					))}
 				</div>
-
-				{/* view in archive btn */}
-				<motion.div
-					initial={{
-						opacity: 0,
-					}}
-					whileInView={{
-						opacity: 1,
-					}}
-					className="flex justify-center items-center flex-col my-5 self-start ">
-					<Button variation="primary">
-						<Link href="projects/archive">View In Archive</Link>
-					</Button>
-				</motion.div>
 			</main>
 		</>
 	);
