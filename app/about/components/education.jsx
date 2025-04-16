@@ -50,7 +50,7 @@ export default function Education() {
                   Simon Fraser University
                 </h2>
                 <h3 className="text-md font-normal mb-3">
-                  Bachelor's Degree in Computer Science
+                  Bachelor&apos;s Degree in Computer Science
                 </h3>
               </div>
             </div>

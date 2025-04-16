@@ -2,7 +2,7 @@
   "Projects": [
     {
       "show": true,
-      "title": "Cambiar1",
+      "title": "Cambiar",
       "desc": [
         "I developed the Hertz Mexico website (https://www.hertzmexico.com/en/), delivering a modern, user-friendly platform for car rentals across Mexico. ",
         "The front-end was built using HTML5, CSS3, and JavaScript, with a mobile-first approach to ensure a seamless experience across devices. I integrated a content management system, likely WordPress or a headless CMS, to streamline content updates and manage bookings effectively. Advanced SEO practices, performance optimization, and analytics tools were incorporated to enhance visibility and user engagement.",
@@ -24,7 +24,7 @@
     },
     {
       "show": true,
-      "title": "Car Rental1",
+      "title": "Car Rental",
       "desc": [
         "I developed rentalpreveza.gr, a comprehensive rental platform that showcases properties in the Preveza region with a focus on both aesthetic appeal and user functionality.",
         "Using modern web technologies such as HTML5, CSS3, WordPress and JavaScript alongside a robust front-end framework like React, I crafted a responsive and intuitive interface that adapts seamlessly to various devices. The platform features dynamic property listings, integrated booking forms, and real-time availability checks, enhancing the overall user experience. On the back-end, I employed technologies like Node.js and a scalable database solution to ensure efficient data management, while integrating APIs like Google Maps to provide enriched location-based services.",
@@ -55,7 +55,7 @@
     },
     {
       "show": true,
-      "title": "House Rental1",
+      "title": "House Rental",
       "desc": [
         "I developed crescentretreats.com, a modern and engaging website dedicated to promoting wellness retreats and exceptional guest experiences.",
         "The front-end was built using HTML5, CSS3, and JavaScript, potentially enhanced with React for dynamic content rendering and a mobile-first responsive design that delivers a seamless experience across devices. On the back-end, I integrated a content management system—potentially WordPress or a headless CMS—to streamline content updates and manage bookings or inquiries effectively. Advanced SEO practices, performance optimization, and analytics tools were incorporated to ensure high visibility and a data-driven approach to enhancing user engagement.",
@@ -99,7 +99,7 @@
     },
     {
       "show": true,
-      "title": "Lichi1",
+      "title": "Lichi",
       "desc": [
         "I developed lichi.com/us/en, a modern, visually engaging platform that effectively represents the brand's innovative solutions. ",
         "The site features a responsive front-end built with HTML5, CSS3, and JavaScript—leveraging frameworks like React or Next.js to deliver a seamless and dynamic user experience. On the back-end, robust APIs, serverless functions, and a headless CMS facilitate efficient content management and rapid data processing",
@@ -121,7 +121,7 @@
     },
     {
       "show": true,
-      "title": "Fashion Lilysilk1",
+      "title": "Fashion Lilysilk",
       "desc": [
         "I developed LILYSILK's global e-commerce platform, creating a visually appealing and highly functional online store for luxury silk products",
         "The front-end was built using HTML5, CSS3, JavaScript, and React for dynamic content rendering, ensuring a responsive, mobile-first design. For the back-end, I integrated a headless CMS to streamline product management and enhance flexibility. I also implemented SEO best practices, performance optimizations, and robust analytics tools to drive traffic and user engagement. ",
@@ -145,7 +145,7 @@
     },
     {
       "show": true,
-      "title": "My House1",
+      "title": "My House",
       "desc": [
         "I developed myhousehospitality.com, a modern hospitality platform designed to deliver an engaging and user-friendly experience for visitors and potential clients.",
         "The site leverages a responsive front-end built with HTML5, CSS3, and JavaScript, incorporating a framework like React to ensure smooth performance and a mobile-first design. On the server side, a robust Node.js and Express setup manages API integrations and dynamic content delivery, while a scalable database such as MongoDB underpins the efficient handling of user inquiries and booking data.",
@@ -166,7 +166,7 @@
     },
     {
       "show": true,
-      "title": "Only One1",
+      "title": "Only One",
       "desc": [
         "I developed onestayinfo.holidayfuture.com, a comprehensive online platform dedicated to holiday stay information and bookings.",
         "The project leverages a modern front-end stack with HTML5, CSS3, and JavaScript—utilizing frameworks such as React for dynamic content rendering and a modular UI that ensures a seamless user experience across devices. On the back-end, the application is powered by Node.js coupled with Express, providing robust RESTful APIs that handle data interactions and integrate with various external services. A NoSQL database solution, like MongoDB, has been incorporated to efficiently manage listings and user data while maintaining scalability and performance.",
@@ -187,7 +187,7 @@
     },
     {
       "show": true,
-      "title": "Re-evolution1",
+      "title": "Re-evolution",
       "desc": [
         "I developed hispanosuizacars.com, a dynamic and responsive website for a premium car dealership that effectively showcases their extensive inventory and services. Leveraging modern technologies such as WordPress, HTML5, CSS3, PHP and JavaScript,",
         "I created an engaging user interface that adapts seamlessly across devices. I implemented interactive elements including dynamic inventory displays, integrated contact forms, and lead capture mechanisms to enhance user engagement and conversion rates. On the back-end, I utilized Node.js and a reliable database system to manage inventory data efficiently while ensuring secure, fast, and scalable interactions through API integrations.",
@@ -209,7 +209,7 @@
     },
     {
       "show": true,
-      "title": "Rental Dream1",
+      "title": "Rental Dream",
       "desc": [
         "I developed rent-qoute-pro.vercel.app, a streamlined web application for generating rental quotes with an emphasis on speed and user engagement.",
         "Built with Next.js and deployed on Vercel, the site leverages server-side rendering and API routes for fast, dynamic content delivery. The powerful React front-end ensures a smooth and responsive user interface, enhanced by modern styling frameworks like Tailwind CSS. Serverless functions handle data processing and integration with external services, offering scalability and efficient performance. ",
@@ -238,7 +238,7 @@
     },
     {
       "show": true,
-      "title": "Sea Sensational1",
+      "title": "Sea Sensational",
       "desc": [
         "I developed sensationalseaadventures.com, a dynamic website that captures the adventurous spirit of marine tours and excursions.",
         "I utilized modern web technologies such as HTML5, CSS3, and JavaScript alongside frameworks like React to create a responsive and engaging user interface. The integration of booking systems and contact forms streamlined user interactions, showcasing my expertise in API integrations and back-end technologies.",
