@@ -25,7 +25,7 @@ function Wrapper({ children }) {
         {children}
       </motion.div>
     </div>
-  );
+  ); 
 }
 
 export default function Education() {
