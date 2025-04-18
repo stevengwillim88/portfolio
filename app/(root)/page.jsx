@@ -362,7 +362,7 @@ const MyPage = () => {
                   {/* icons */}
                   <div className="flex justify-center items-center space-x-4">
                     <motion.a
-                      href="mailto:stevengwillim@gmail.com?subject=Hello&body=Hello Steven,"
+                      href="mailto:stevengwillim88@gmail.com?subject=Hello&body=Hello Steven,"
                       className="flex justify-center items-center bg-gray-700 w-14 h-14 rounded-full text-gray-100 hover:bg-gray-400 transition-all ease-in-out duration-300"
                       initial={{ y: 40, opacity: 0 }}
                       whileInView={{ y: 0, opacity: 1 }}
@@ -375,7 +375,7 @@ const MyPage = () => {
                     </motion.a>
 
                     <motion.a
-                      href="https://github.com/stevengwillim88"
+                      href="https://github.com/vortexory"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex justify-center items-center bg-gray-700 w-14 h-14 rounded-full text-gray-100 hover:bg-gray-400 transition-all ease-in-out duration-300"
@@ -390,7 +390,7 @@ const MyPage = () => {
                     </motion.a>
 
                     <motion.a
-                      href="https://www.linkedin.com/in/steve-gwillim/"
+                      href="https://www.linkedin.com/in/steven-gwillim/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex justify-center items-center bg-gray-700 w-14 h-14 rounded-full text-gray-100 hover:bg-gray-400 transition-all ease-in-out duration-300"
@@ -404,7 +404,7 @@ const MyPage = () => {
                       <FontAwesomeIcon icon={faLinkedin} className="text-3xl" />
                     </motion.a>
                     <motion.a
-                      href="id:pababravo"
+                      href="id:sui_satoshi"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex justify-center items-center bg-gray-700 w-14 h-14 rounded-full text-gray-100 hover:bg-gray-400 transition-all ease-in-out duration-300"
