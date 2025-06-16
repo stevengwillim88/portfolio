@@ -15,10 +15,6 @@ import Hr from "@/components/Hr";
 // icons
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
-import { faInstagram } from "@fortawesome/free-brands-svg-icons";
-import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
-import { faDiscord } from "@fortawesome/free-brands-svg-icons";
-import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
 const MyPage = () => {
   const fullpageOptions = {
@@ -88,15 +84,15 @@ const MyPage = () => {
                       type: "spring",
                     }}
                   >
-                    Senior Software Engineer with 12+ years of experience in web,
-                    mobile, and AI-powered applications. Skilled in TypeScript,
-                    React/Next, Vue/Nuxt, Node.js/Nest.js, Flutter, Supabase,
-                    Edge Functions, tRPC, Prisma, and OpenAI/LangChain. Also
-                    experienced with Python frameworks like FastAPI and Django.
-                    Proficient in modern full-stack tools, serverless
-                    architecture, and cloud platforms like Vercel and AWS.
-                    Focused on building clean, scalable apps and leading
-                    projects from idea to launch.
+                    Senior Software Engineer with 12+ years of experience in
+                    web, mobile, and AI-powered applications. Skilled in
+                    TypeScript, React/Next, Vue/Nuxt, Node.js/Nest.js, Flutter,
+                    Supabase, Edge Functions, tRPC, Prisma, and
+                    OpenAI/LangChain. Also experienced with Python frameworks
+                    like FastAPI and Django. Proficient in modern full-stack
+                    tools, serverless architecture, and cloud platforms like
+                    Vercel and AWS. Focused on building clean, scalable apps and
+                    leading projects from idea to launch.
                   </motion.p>
                   <motion.div
                     className="buttons flex flex-row justify-center items-center space-x-4 mt-10"
@@ -356,26 +352,13 @@ const MyPage = () => {
                     }}
                   >
                     <a href="mailto:stevengwillim88@gmail.com?subject=Hello&body=Hello Steven,">
-                      steveng willim 88
+                      My Github
                     </a>
                   </motion.p>
                   {/* icons */}
                   <div className="flex justify-center items-center space-x-4">
                     <motion.a
-                      href="mailto:stevengwillim88@gmail.com?subject=Hello&body=Hello Steven,"
-                      className="flex justify-center items-center bg-gray-700 w-14 h-14 rounded-full text-gray-100 hover:bg-gray-400 transition-all ease-in-out duration-300"
-                      initial={{ y: 40, opacity: 0 }}
-                      whileInView={{ y: 0, opacity: 1 }}
-                      transition={{
-                        y: { delay: 0.1 },
-                        opacity: { delay: 0.2 },
-                      }}
-                    >
-                      <FontAwesomeIcon icon={faEnvelope} className="text-3xl" />
-                    </motion.a>
-
-                    <motion.a
-                      href="https://github.com/vortexory"
+                      href="https://github.com/stevengwillim88"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex justify-center items-center bg-gray-700 w-14 h-14 rounded-full text-gray-100 hover:bg-gray-400 transition-all ease-in-out duration-300"
@@ -387,35 +370,6 @@ const MyPage = () => {
                       }}
                     >
                       <FontAwesomeIcon icon={faGithub} className="text-3xl" />
-                    </motion.a>
-
-                    <motion.a
-                      href="https://www.linkedin.com/in/steven-gwillim/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex justify-center items-center bg-gray-700 w-14 h-14 rounded-full text-gray-100 hover:bg-gray-400 transition-all ease-in-out duration-300"
-                      initial={{ opacity: 0, y: 40 }}
-                      whileInView={{ opacity: 1, y: 0 }}
-                      transition={{
-                        y: { delay: 0.4 },
-                        opacity: { delay: 0.5 },
-                      }}
-                    >
-                      <FontAwesomeIcon icon={faLinkedin} className="text-3xl" />
-                    </motion.a>
-                    <motion.a
-                      href="id:sui_satoshi"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex justify-center items-center bg-gray-700 w-14 h-14 rounded-full text-gray-100 hover:bg-gray-400 transition-all ease-in-out duration-300"
-                      initial={{ opacity: 0, y: 40 }}
-                      whileInView={{ opacity: 1, y: 0 }}
-                      transition={{
-                        y: { delay: 0.5 },
-                        opacity: { delay: 0.6 },
-                      }}
-                    >
-                      <FontAwesomeIcon icon={faDiscord} className="text-3xl" />
                     </motion.a>
                   </div>
                 </div>
